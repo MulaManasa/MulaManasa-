@@ -45,6 +45,8 @@ I'm a passionate **Flutter App Developer** with a strong foundation in mobile de
 ![DevOps](https://img.shields.io/badge/DevOps-%23316192.svg?style=for-the-badge&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-%2357A6FF.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ### Tools & Technologies
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -62,6 +64,8 @@ I'm a passionate **Flutter App Developer** with a strong foundation in mobile de
 - Jenkins
 - Shell Scripting (Bash)
 - Kubernetes
+- Terraform
+- GitHub Actions
 - Flutter, Dart
 - REST APIs, Firebase, AWS
 
